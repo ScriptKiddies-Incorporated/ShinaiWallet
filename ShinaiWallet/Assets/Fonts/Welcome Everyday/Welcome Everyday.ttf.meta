@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ec26d8919ef3adf44a0df870b2dff7e4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Welcome Everyday
+  fontNames:
+  - Welcome Everyday
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a49de953b986a3749b6ae002c8003e32, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
