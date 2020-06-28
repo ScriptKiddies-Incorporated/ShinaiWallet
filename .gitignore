@@ -88,6 +88,9 @@ ShinaiWallet/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
 ShinaiWallet/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
 ShinaiWallet/Library
 ShinaiWallet/Library/
+ShinaiWallet/Library/metadata
+ShinaiWallet\Library\metadata
+ShinaiWallet\Library
 ShinaiWallet/Temp
 ShinaiWallet/obj
 ShinaiWallet/Library/StateCache/Hierarchy/8bc40c-mainStage.json
@@ -95,3 +98,10 @@ ShinaiWallet/Library/StateCache/SceneView/f2e9a1-mainStage.json
 *.log
 ShinaiWallet/Library/LastBuild.buildreport
 ShinaiWallet/Library/shadercompiler-UnityShaderCompiler.exe0.log
+ShinaiWallet/ShinaiWallet/Library/metadata
+ShinaiWallet/ShinaiWallet/Library/metadata/
+ShinaiWallet\ShinaiWallet\Library\metadata
+ShinaiWallet\Library\metadata
+ShinaiWallet/Library/metadata
+ShinaiWallet/Library/shadercompiler-UnityShaderCompiler.exe0.log
+ShinaiWallet/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
