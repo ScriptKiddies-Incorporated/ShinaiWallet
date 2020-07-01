@@ -70,6 +70,21 @@
     <Compile Include="Assets\Scripts\NewWalletScript.cs" />
     <None Include="Assets\Fonts\Welcome Everyday\Font License.txt" />
     <None Include="Assets\Fonts\DEMO - PERSONAL USE ONLY.txt" />
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
     </Reference>
@@ -271,29 +286,17 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Assets/Plugins/Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
     <Reference Include="NBitcoin">
       <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Assets/Plugins/NBitcoin.dll</HintPath>
     </Reference>
-    <Reference Include="NBitcoin">
-      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Assets/Plugins/lib/net452/NBitcoin.dll</HintPath>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="NBitcoin">
-      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Assets/Plugins/lib/net461/NBitcoin.dll</HintPath>
-    </Reference>
-    <Reference Include="NBitcoin">
-      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Assets/Plugins/lib/netcoreapp2.1/NBitcoin.dll</HintPath>
-    </Reference>
-    <Reference Include="NBitcoin">
-      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Assets/Plugins/lib/netstandard1.1/NBitcoin.dll</HintPath>
-    </Reference>
-    <Reference Include="NBitcoin">
-      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Assets/Plugins/lib/netstandard1.3/NBitcoin.dll</HintPath>
-    </Reference>
-    <Reference Include="NBitcoin">
-      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Assets/Plugins/lib/netstandard2.0/NBitcoin.dll</HintPath>
-    </Reference>
-    <Reference Include="NBitcoin">
-      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Assets/Plugins/lib/netstandard2.1/NBitcoin.dll</HintPath>
+    <Reference Include="System.Buffers">
+      <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Assets/Plugins/System.Buffers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
       <HintPath>C:/Users/Kalin/Documents/GitHub/ShinaiWallet/ShinaiWallet/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>

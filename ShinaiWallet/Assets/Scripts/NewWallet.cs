@@ -9,10 +9,14 @@ public class NewWallet : MonoBehaviour
     void Start()
     {
 		// Bitcoin.
-		
-		
+		var key = new Key();
 	 
     }
+
+	void OnButtonClick()
+	{
+		var key = new Key();
+	}
 
     // Update is called once per frame
     void Update()
