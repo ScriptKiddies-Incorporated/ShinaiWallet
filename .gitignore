@@ -105,3 +105,4 @@ ShinaiWallet\Library\metadata
 ShinaiWallet/Library/metadata
 ShinaiWallet/Library/shadercompiler-UnityShaderCompiler.exe0.log
 ShinaiWallet/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+*.buildreport
