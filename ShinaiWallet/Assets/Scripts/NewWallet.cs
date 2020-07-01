@@ -10,6 +10,7 @@ public class NewWallet : MonoBehaviour
     {
 		// Bitcoin.
 		
+		
 	 
     }
 
