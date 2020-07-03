@@ -7,6 +7,6 @@ public class DoneButtonScript : MonoBehaviour
 {
     public void OnButtonClick()
     {
-        SceneManager.LoadScene("Pincodescene");
+        SceneManager.LoadScene("Pincodeconfirmscene");
     }
 }
