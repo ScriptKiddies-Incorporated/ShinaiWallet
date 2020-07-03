@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\PINCodeTextScript.cs" />
+    <Compile Include="Assets\Scripts\BIP39_WordList.cs" />
     <Compile Include="Assets\Scripts\DoneButtonScript.cs" />
     <Compile Include="Assets\Scripts\Exit.cs" />
     <Compile Include="Assets\Scripts\NewWallet.cs" />
