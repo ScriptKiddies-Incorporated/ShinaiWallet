@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using NBitcoin;
+using UnityEngine.SceneManagement;
 
 public class NewWallet : MonoBehaviour
 {
@@ -17,13 +18,13 @@ public class NewWallet : MonoBehaviour
 		Mnemonic m1 = new Mnemonic(wordList);
 	}
 
-   void OnButtonClick()
+	public void OnButtonClick()
 	{
-		//var key = new Key();
+		SceneManager.LoadScene("Wordscene");
 	}
 
-    // Update is called once per frame
-    void Update()
+	// Update is called once per frame
+	void Update()
     {
         
     }
